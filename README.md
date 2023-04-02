@@ -15,14 +15,21 @@ contributing to building systems that empower everyone to dream big and live the
 🎓 Global Public health (MPH) at Harvard
 🎓 Economics and Public Policy (MPA) at Princeton
 
+- Founder of [Karma Health](www.karmahealth.org)
+
 ### Skills
 - 🛠️ Policy Analysis, Economic Analysis, Statistical/Econometric Analysis
 - 🧮 MS Excel, Stata      🇷 R-programming      🐍 basic Python
 - 🌍 GIS: Q-GIS, ArcGISPro         📊 Tableau       📋 Survey Tools: Kobo, ODK
+
+- Domain Expertise:
+    - 🤰 Maternal & Reproductive Health, Healthy childbirth
+    - 🚼Child Health Immunization & Nutrition
+    - 💔Community-based Non-communicable Diseases Management
 - 💬 Ask me about:
--- Community Health Workers
---Primary Health Care
---Community-based development 
+    - 👩🏽‍⚕️ Community Health Workers 
+    - 💊 Primary Health Care
+    - 🙌 Community-based development 
 
 ### Thank you
 😄 Bishal Belbase (he/him/his) 🇳🇵 🇺🇸
