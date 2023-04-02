@@ -23,9 +23,9 @@ contributing to building systems that empower everyone to dream big and live the
 - 🌍 GIS: Q-GIS, ArcGISPro         📊 Tableau       📋 Survey Tools: Kobo, ODK
 
 - Domain Expertise:
-    - 🤰 Maternal & Reproductive Health, Healthy childbirth
-    - 🚼Child Health Immunization & Nutrition
-    - 💔Community-based Non-communicable Diseases Management
+    - 🤰 Maternal & Reproductive Health, Safer pregnancies and birth preparedness
+    - 🚼Child Health and Early Childhood Development; Immunization & Nutrition, Education
+    - 💔Non-communicable Diseases Management; Primary Health Care packages, Community-based management
 - 💬 Ask me about:
     - 👩🏽‍⚕️ Community Health Workers 
     - 💊 Primary Health Care
