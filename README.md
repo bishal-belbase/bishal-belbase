@@ -29,7 +29,7 @@ contributing to building systems that empower everyone to dream big and live the
 - 💬 Ask me about:
     - 👩🏽‍⚕️ Community Health Workers 
     - 💊 Primary Health Care
-    - 🙌 Community-based development 
+    - 🙌 Community-centered Program Design
 
 ### Thank you
 😄 Bishal Belbase (he/him/his) 🇳🇵 🇺🇸
