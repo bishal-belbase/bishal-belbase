@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 I believe that everyone, regardless of their background, 
 should have the opportunity to pursue their dreams.
