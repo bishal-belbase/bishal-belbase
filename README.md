@@ -19,8 +19,10 @@ contributing to building systems that empower everyone to dream big and live the
 - 🛠️ Policy Analysis, Economic Analysis, Statistical/Econometric Analysis
 - 🧮 MS Excel, Stata      🇷 R-programming      🐍 basic Python
 - 🌍 GIS: Q-GIS, ArcGISPro         📊 Tableau       📋 Survey Tools: Kobo, ODK
-- 👯 Seeking collaborations on Global Health, Primary Health Care, Health Care Innovation, Health Technology
-- 💬 Ask me about Community Health Workers, Primary Health Care, Community-based development
+- 💬 Ask me about:
+-- Community Health Workers
+--Primary Health Care
+--Community-based development 
 
 ### Thank you
 😄 Bishal Belbase (he/him/his) 🇳🇵 🇺🇸
