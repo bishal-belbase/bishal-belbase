@@ -15,7 +15,7 @@ contributing to building systems that empower everyone to dream big and live the
 🎓 Global Public health (MPH) at Harvard
 🎓 Economics and Public Policy (MPA) at Princeton
 
-- Founder of [Karma Health](www.karmahealth.org)
+- Founder of [Karma Health](https://www.karmahealth.org)
 
 ### Skills
 - 🛠️ Policy Analysis, Economic Analysis, Statistical/Econometric Analysis
