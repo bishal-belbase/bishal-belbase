@@ -12,13 +12,14 @@ Therefore, I am committed to being a part of something that changes this and
 contributing to building systems that empower everyone to dream big and live their dreams.
 
 - I’m a Physician 👨‍⚕️ trained in
-🎓 Global Public health (MPH) at Harvard
-🎓 Economics and Public Policy (MPA) at Princeton
+🎓 Global Public health [(MPH) at Harvard](https://www.hsph.harvard.edu/admissions/degree-programs/master-of-public-health/)
+🎓 Economics and Public Policy [(MPA) at Princeton](https://spia.princeton.edu/graduate-programs/master-public-affairs)
 
 - Founder of [Karma Health](https://www.karmahealth.org)
 
 ### Skills
-- 🛠️ Policy Analysis, Economic Analysis, Statistical/Econometric Analysis
+- ⚕️ Medical Sciences, Clinical Medicine, Public Health/Global Health
+- 🔎 Policy Analysis, Economic Analysis, Statistical/Econometric Analysis
 - 🧮 MS Excel, Stata      🇷 R-programming      🐍 basic Python
 - 🌍 GIS: Q-GIS, ArcGISPro         📊 Tableau       📋 Survey Tools: Kobo, ODK
 
