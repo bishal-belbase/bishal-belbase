@@ -20,7 +20,7 @@ contributing to building systems that empower everyone to dream big and live the
 ### Skills
 - ⚕️ Medical Sciences, Clinical Medicine, Public Health/Global Health
 - 🔎 Policy Analysis, Economic Analysis, Statistical/Econometric Analysis
-- 🧮 MS Excel, Stata      🇷 R-programming      🐍 basic Python
+- 🧮 MS Excel, Stata      👨‍💻 R-programming      🐍 basic Python
 - 🌍 GIS: Q-GIS, ArcGISPro         📊 Tableau       📋 Survey Tools: Kobo, ODK
 
 - Domain Expertise:
