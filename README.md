@@ -1,9 +1,8 @@
 ### Hi 👋
 
-I believe that everyone, regardless of their background, 
-should have the opportunity to pursue their dreams.
+I believe that everyone everywhere should have the opportunity to pursue their dreams.
 
-Regrettably, in many underserved communities, limited access to 
+Sadly, in many underserved communities, limited access to 
 🩺 quality healthcare and 
 📖 education is a significant obstacle, 
 that prevents individuals from realizing their full potential.
@@ -24,7 +23,7 @@ contributing to building systems that empower everyone to dream big and live the
 - 🌍 GIS: Q-GIS, ArcGISPro         📊 Tableau       📋 Survey Tools: Kobo, ODK
 
 - Domain Expertise:
-    - 🤰 Maternal & Reproductive Health, Safer pregnancies and birth preparedness
+    - 🤰 Maternal & Reproductive Health; Safer pregnancies and birth preparedness
     - 🚼Child Health and Early Childhood Development; Immunization & Nutrition, Education
     - 💔Non-communicable Diseases Management; Primary Health Care packages, Community-based management
 - 💬 Ask me about:
